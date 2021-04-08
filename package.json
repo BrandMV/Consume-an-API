@@ -6,6 +6,10 @@
   "author": "BrandMV <brandonmv2001@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@parcel/transformer-sass": "2.0.0-beta.2",
     "parcel": "^2.0.0-beta.2"
+  },
+  "scripts": {
+    "dev": "parcel index.html -p 3010"
   }
 }
