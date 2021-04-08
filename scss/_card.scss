@@ -1,6 +1,7 @@
+@import "mixins";
+
 #cardsP{
-    display: flex;
-    justify-content: center;
+    @include centrado;
     align-items: center;
     
 }
@@ -15,8 +16,7 @@
     width: 700px;
     height: 350px;
     margin: 20px;
-    display: flex;
-    justify-content: center;
+    @include centrado;
     align-items: center;
     
     
