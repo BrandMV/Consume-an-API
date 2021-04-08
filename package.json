@@ -1,0 +1,11 @@
+{
+  "name": "Consume-an-API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BrandMV/Consume-an-API.git",
+  "author": "BrandMV <brandonmv2001@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
