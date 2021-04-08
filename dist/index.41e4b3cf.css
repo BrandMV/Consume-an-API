@@ -1,2 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
 
+body {
+  font-family: "Roboto";
+  background: #FFEFBA;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FFFFFF, #FFEFBA);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#formu {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+#formulario button {
+  border: none;
+  background: none;
+  font-size: 1.2rem;
+}
+#formulario input {
+  appearance: none;
+  border: 1px solid rgba(0, 0, 0, 0.425);
+  background-color: rgba(0, 0, 0, 0.041);
+  width: 18rem;
+  height: 3rem;
+  font-size: 1.2rem;
+  color: white;
+  font-weight: 400;
+}
 /*# sourceMappingURL=index.41e4b3cf.css.map */

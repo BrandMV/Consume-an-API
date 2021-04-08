@@ -1,0 +1,25 @@
+@import "mixins";
+
+#formu{
+    @include centrado;
+    padding: 2rem;
+}
+#formulario{
+    button{
+        border: none;
+        background: none;
+        font-size: 1.2rem;
+    }
+
+    input{
+        appearance:none;
+        border: 1px solid rgba(0, 0, 0, 0.425);
+        background-color: rgba(0, 0, 0, 0.041);
+        width: 18rem;
+        height: 2rem;
+        font-size: 1.2rem;
+        color: white;
+        font-weight: 400;
+    }
+    
+}
