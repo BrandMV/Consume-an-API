@@ -140,12 +140,12 @@
       this[globalName] = mainExports;
     }
   }
-})({"2uALR":[function(require,module,exports) {
+})({"3L7Q5":[function(require,module,exports) {
 var HMR_HOST = null;
-var HMR_PORT = 3010;
+var HMR_PORT = 3100;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "d751713988987e9331980363e24189ce";
-module.bundle.HMR_BUNDLE_ID = "62d5dab885897b04655082d4fd532818";
+module.bundle.HMR_BUNDLE_ID = "ba76236dc15f498c73ded0e523420cfa";
 // @flow
 /*global HMR_HOST, HMR_PORT, HMR_ENV_HASH, HMR_SECURE*/
 /*::
@@ -441,7 +441,7 @@ id) /*: string*/
   acceptedAssets[id] = true;
 }
 
-},{}],"4ee1I":[function(require,module,exports) {
+},{}],"2X3X1":[function(require,module,exports) {
 const cards = document.getElementById('cards')
 const formulario = document.querySelector('#formulario');
 const text = document.querySelector('#search');
@@ -495,6 +495,6 @@ formulario.addEventListener('submit',(event) => {
     llamarAPI()
    
 })
-},{}]},["2uALR","4ee1I"], "4ee1I", "parcelRequire704b")
+},{}]},["3L7Q5","2X3X1"], "2X3X1", "parcelRequire704b")
 
-//# sourceMappingURL=index.fd532818.js.map
+//# sourceMappingURL=index.23420cfa.js.map

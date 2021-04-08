@@ -1,7 +1,7 @@
 {
   "name": "Consume-an-API",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "repository": "https://github.com/BrandMV/Consume-an-API.git",
   "author": "BrandMV <brandonmv2001@gmail.com>",
   "license": "MIT",
@@ -10,6 +10,6 @@
     "parcel": "^2.0.0-beta.2"
   },
   "scripts": {
-    "dev": "parcel index.html -p 3016"
+    "dev": "parcel index.html -p 3101"
   }
 }
